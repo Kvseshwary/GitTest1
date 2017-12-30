@@ -13,9 +13,7 @@ namespace ConsoleApp1
             //Code added/editted in GitHUb
             //Code added in VS
             //Code to call feature1
-            
-            //Code for feature3
-            
+            //Code to call feature2
         }
     }
 }
